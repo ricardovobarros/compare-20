@@ -9,3 +9,5 @@ Excel add-in to compare two workbooks through id elements.
 Click ok and the Compare20 will appear on your Ribonn (see below):
 **add image with add-in**
 
+- Se instruction on the video below
+
